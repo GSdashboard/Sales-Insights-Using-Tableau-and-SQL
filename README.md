@@ -1,11 +1,19 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
+In this project, I tackle the challenge of cleaning and preparing hardware supplier sales data for in-depth analysis using Advanced Tableau Queries. The project emphasizes not only technical skills but also soft skills, including effective project kick-off using the AIMS grid and collaborative teamwork involving data engineers, data analysts, and software engineers. 
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
+Skill Focus: Data analysis, data visualization, and creation of a dashboard using Tableau and SQL.
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+I have used following tools to complete this project:
+
+1) SQL
+
+2) Tableau
+
+  
+For live interactive dashboard visit: 
+
+Here is a glipmse of the Tableau dashboard:
 
 ### Data Analysis Using SQL
 
